@@ -1,0 +1,45 @@
+.fa-circle-xmark, .fa-circle-check{
+    padding-top: 20px;
+    padding-left: 5px;
+}
+
+.inputContrainer{
+    text-align: center;
+}
+
+.input-createCheckbox{
+    box-shadow: 5px 5px #00000010;
+}
+
+.createdInput{
+    border: none;
+    box-shadow: 5px 5px #00000010;
+}
+
+#checkboxes{
+    display: block;
+    padding: 20px 0px 20px 0px;
+    text-align: center;
+}
+
+#listIco{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 4vw;
+    color:#ff8204;
+    text-shadow: 2px 2px #000000;
+}
+
+body{
+    background-color: whitesmoke;
+    
+    position: absolute;
+    top: 30%;
+    left: 45%;
+    margin-top: -80px;
+    margin-left: -50px;
+}
